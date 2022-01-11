@@ -7,5 +7,10 @@
         "Denise Moerel",
         "Anina Rich",
         "Chris Baker"
-    ]
+    ],
+    "ReferencesAndLinks": [
+        "Teichmann, L., Moerel, D., Rich, A. N., & Baker, C. I. (2021, April 24). The nature of neural object representations during dynamic occlusion. Retrieved from osf.io/tp2ad",
+        "Teichmann, L., Moerel, D., Rich, A. N., & Baker, C. I. (2022, January 24). The nature of neural object representations during dynamic occlusion . Retrieved from osf.io/hc25w"
+    ],
+    "License": "CC0"
 }
