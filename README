@@ -1,5 +1,6 @@
 The main folder contains the raw MEG data for all participants in standard bids format. See references.
  
+
 The ‘sourcedata’ folder contains the behavioural data collected during the MEG session as well as the eyetracking data. The data in this folder follows the following trial structure:
  
 
