@@ -11,7 +11,7 @@ The ‘sourcedata’ folder contains the behavioural data collected during the M
 			- sub-[participant number]_task-occlusion_run-[run number]_occframes.csv: contains all the stimulus positions for each occlusion trial in the MEG session.
 			- sub-[participant number]_task-occlusion_run-[run number]_disframes.csv: contains all the stimulus positions for each disappearance trial in the MEG session.
 	- eyetracking
-		- sub-[participant number]_Occ.edf: elf file containing the eye positions during the MEG session.
+		- sub-[participant number]_Occ.edf: edf file containing the eye positions during the MEG session.
 
 The ‘derivatives’ folder contains the pre-processed MEG data for each participant. The data in this folder follows the following trial structure:
 
