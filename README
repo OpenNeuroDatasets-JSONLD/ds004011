@@ -2,6 +2,7 @@ The main folder contains the raw MEG data for all participants in standard bids 
  
 The ‘sourcedata’ folder contains the behavioural data collected during the MEG session as well as the eyetracking data. The data in this folder follows the following trial structure:
  
+
 - sourcedata
 	- beh
 		- sub-[participant number]
@@ -12,6 +13,7 @@ The ‘sourcedata’ folder contains the behavioural data collected during the M
 		- sub-[participant number]_Occ.edf: elf file containing the eye positions during the MEG session.
 
 The ‘derivatives’ folder contains the pre-processed MEG data for each participant. The data in this folder follows the following trial structure:
+
 
 - derivatives
 	- preprocessed
