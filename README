@@ -29,6 +29,7 @@ The ‘derivatives’ folder contains the pre-processed MEG data for each partic
                 		- ds_tiny: cell with two entries. First entry contains the disappearance trials epoched relative to position change. Second entry contains the occlusion trials epoched relative to position change. (MEG channels)
                 		- ds_tiny_eyes: cell with two entries. First entry contains the disappearance trials epoched relative to position change. Second entry contains the occlusion trials epoched relative to position change. (eye-x, eye-y, pupil size)
 
+
 ------------
 References:
 
