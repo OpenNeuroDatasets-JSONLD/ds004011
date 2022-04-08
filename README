@@ -26,10 +26,8 @@ The ‘derivatives’ folder contains the pre-processed MEG data for each partic
 			- ds_eyes_occ: cosmo data struct containing the disappearance trials epoched relative to stimulus onset (eye-x, eye-y, pupil size)
 			- ds_eyes_loc: cosmo data struct containing the unpredictable position stream trials epoched relative to stimulus onset (eye-x, eye-y, pupil size)
 		-  cosmo_p[participant number]_position_epochs.mat: cosmomvpa formatted file with the pre-processed data, epoched relative to each position change, containing the following variables:
-
-                		- ds_tiny: cell with two entries. First entry contains the disappearance trials epoched relative to position change. Second entry contains the occlusion trials epoched relative to position change. (MEG channels)
-
-                		- ds_tiny_eyes: cell with two entries. First entry contains the disappearance trials epoched relative to position change. Second entry contains the occlusion trials epoched relative to position change. (eye-x, eye-y, pupil size)
+			- ds_tiny: cell with two entries. First entry contains the disappearance trials epoched relative to position change. Second entry contains the occlusion trials epoched relative to position change. (MEG channels)
+			- ds_tiny_eyes: cell with two entries. First entry contains the disappearance trials epoched relative to position change. Second entry contains the occlusion trials epoched relative to position change. (eye-x, eye-y, pupil size)
 
 
 ------------
